@@ -3,8 +3,10 @@ package interview;
 /*
 Implement a queue with the following operations:
 
-I sed BST with two more pointers for queue maintenance, this will works with complexity of BST which is log n in most of the scenario.
-with is DS we can always change the underlying DS which is BST.
+Implementation details:
+I used BST with two more pointers for queue maintenance, this will works with complexity of BST which is log n in most of the scenarios.
+with this DS, we can always change the underlying DS which is BST.
+
 */
 
 public class MyQueue2 {
